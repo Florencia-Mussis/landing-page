@@ -12753,7 +12753,7 @@ textarea.form-control-lg {
 /*---------------------------------------------*/
 /*** Override Bootstrap Carousel in order to show dots instead of lines. ***/
 .carousel-indicators {
-  top: 108%;
+  top: 110%;
 }
 
 .carousel-indicators button {
